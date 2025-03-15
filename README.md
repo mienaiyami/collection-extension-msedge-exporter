@@ -2,6 +2,8 @@
 
 A web-based tool that allows users to export their Microsoft Edge Collections to a JSON file compatible with Collection Extension 2.0.
 
+Visit the [live tool](https://mienaiyami.github.io/edge-collections-exporter/)
+
 ## Overview
 
 This tool helps users transfer their saved collections from Microsoft Edge's SQLite database into a JSON format compatible with Collection Extension 2.0. The process happens entirely client-side using WebAssembly, ensuring your data never leaves your browser.
@@ -51,6 +53,8 @@ type Collection = {
     orderUpdatedAt: number;
 }
 ```
+
+Date is in Unix timestamp format.
 
 ## Development
 
