@@ -1,0 +1,1 @@
+export const FILE_SIZE_WARNING_THRESHOLD = 30 * 1024 * 1024;
