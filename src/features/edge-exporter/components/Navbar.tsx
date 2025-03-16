@@ -22,7 +22,7 @@ export const Navbar = () => {
             </div>
             <div className="flex items-center gap-4">
                 <a
-                    href="https://github.com/mienaiyami/collection-extension-2.0"
+                    href="https://github.com/mienaiyami/collection-extension-msedge-exporter"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-muted-foreground hover:text-foreground transition-colors"
@@ -41,7 +41,7 @@ export const Navbar = () => {
                     <span>GitHub</span>
                 </a>
                 <a
-                    href="https://github.com/mienaiyami/collection-extension-2.0/issues"
+                    href="https://github.com/mienaiyami/collection-extension-msedge-exporter/issues"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-muted-foreground hover:text-foreground transition-colors"

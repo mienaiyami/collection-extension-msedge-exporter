@@ -11,5 +11,6 @@ export default defineConfig({
             "@": path.resolve(__dirname, "./src"),
         },
     },
-    base: "/collection-extension-msedge-exporter/",
+    // not needed coz domain is edge-exporter.mienaiyami.xyz
+    // base: "/collection-extension-msedge-exporter/",
 });

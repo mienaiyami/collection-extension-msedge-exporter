@@ -2,7 +2,7 @@
 
 A web-based tool that allows users to export their Microsoft Edge Collections to a JSON file compatible with Collection Extension 2.0.
 
-Visit the [live tool](https://mienaiyami.github.io/edge-collections-exporter/)
+Visit at <https://edge-exporter.mienaiyami.xyz>
 
 ## Overview
 
