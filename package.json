@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://mienaiyami.github.io/collection-extension-msedge-exporter/",
+  "homepage": "https://edge-exporter.mienaiyami.xyz/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
